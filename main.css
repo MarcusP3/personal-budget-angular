@@ -3,7 +3,7 @@
 }
 
 body {
-    font-size: 10px;
+    font-size: 13px;
     font-family: Tahoma, Arial;
 }
 
@@ -95,4 +95,11 @@ footer {
     .container .div.text-box {
         margin: 10px;
     }
+}
+
+.skip-link {
+    left: 10%;
+    position: absolute;
+    transform: translateY(-100%);
+    transform: translateX(-100%);
 }
